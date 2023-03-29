@@ -36,11 +36,11 @@
 
 到这个窗口时，就要小心了！
 
-![SETUP.png](https://s2.loli.net/2022/04/15/Fck5nB7vTe1tJZp.png)
+![SETUP.png](https://www.helloimg.com/images/2023/03/29/o3McBn.png)]
 
 你要这样做：
 
-![SELECT.png](https://s2.loli.net/2022/04/15/fqN4XJ6OpcUZzsh.png)
+![SELECT.png](https://www.helloimg.com/images/2023/03/29/o3MdtR.png)
 
 *这让安装程序自动设置了环境变量，方便后续操作。*
 
